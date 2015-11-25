@@ -31,3 +31,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+
+### Import to Intellij
+I had to import the HackVG folder within Material-Movies for the app to work. Do not import Material-Movies, it won't work
